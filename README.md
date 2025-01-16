@@ -72,7 +72,7 @@ Results-driven Software Engineer with 3 years of experience specializing in the 
 
 <p align="center">
   <a href="https://github.com/HassanBilalDev">
-    <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanBilalDev&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Hassan Bilal's GitHub streak"/>
+    <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=adreesdev&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Hassan Bilal's GitHub streak"/>
   </a>
 </p>
 
