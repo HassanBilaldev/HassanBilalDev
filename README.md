@@ -94,7 +94,7 @@ Results-driven Software Engineer with 3 years of experience specializing in the 
 <h1 align="center">Let's Connect :coffee:</h1>
 <p align="center">
 	<a href="https://github.com/HassanBilalDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/HassanBilalDev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/HassanBilalDev"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-        <a href="https://wa.me/923070790425"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/hassan-6002/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/hassan_______bilal"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://wa.me/923094218500"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
